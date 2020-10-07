@@ -95,5 +95,5 @@ def parse():
         print('Error')
 
 
-
-parse()
+if __name__=='__main__':
+    parse()
