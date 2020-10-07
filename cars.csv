@@ -1,0 +1,192 @@
+Car model;Link;Dollar Price;UAH Price;City;Type of Engine;Transmission;Drive Unit
+Suzuki Jimny 2019;https://auto.ria.com/newauto/auto-suzuki-jimny-1845697.html;27 132 $;750 000 грн;Харьков;Бензин 1.5 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1775545.html;20 635 $;570 400 грн;Харьков;Бензин 1.6 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1843919.html;21 380 $;591 000 грн;Харьков;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845227.html;19 173 $;530 000 грн;Ивано-Франковск;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1844325.html;21 232 $;586 900 грн;Харьков;Бензин 1.4 л;Автомат;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1841567.html;20 635 $;570 400 грн;Ивано-Франковск;Бензин 1.6 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1841566.html;19 267 $;532 600 грн;Ивано-Франковск;Бензин 1.6 л;Механическая;Полный привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845407.html;19 173 $;530 000 грн;Харьков;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1842840.html;19 267 $;532 600 грн;Харьков;Бензин 1.6 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1843177.html;17 708 $;489 500 грн;Львов;Бензин 1.6 л;Механическая;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1838782.html;17 708 $;489 500 грн;Харьков;Бензин 1.6 л;Механическая;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1838783.html;20 635 $;570 400 грн;Харьков;Бензин 1.6 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1845545.html;19 061 $;526 900 грн;Днепр (Днепропетровск);Бензин 1.6 л;Автомат;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1840871.html;20 635 $;570 400 грн;Тернополь;Бензин 1.6 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1837678.html;23 004 $;635 900 грн;Одесса;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1842756.html;21 380 $;591 000 грн;Одесса;Бензин 1.6 л;Автомат;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1839373.html;19 061 $;526 900 грн;Одесса;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1845191.html;24 075 $;665 500 грн;Ивано-Франковск;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1844550.html;24 075 $;665 500 грн;Харьков;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1844585.html;21 232 $;586 900 грн;Днепр (Днепропетровск);Бензин 1.4 л;Автомат;Передний привод
+Suzuki Jimny 2019;https://auto.ria.com/newauto/auto-suzuki-jimny-1845357.html;28 217 $;780 000 грн;Днепр (Днепропетровск);Бензин 1.5 л;Автомат;Полный привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845275.html;20 041 $;554 000 грн;Тернополь;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1833820.html;21 232 $;586 900 грн;Одесса;Бензин 1.4 л;Автомат;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1845760.html;19 267 $;532 600 грн;Харьков;Бензин 1.6 л;Механическая;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1775538.html;25 066 $;692 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1843920.html;20 635 $;570 400 грн;Харьков;Бензин 1.6 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1832891.html;20 609 $;569 700 грн;Харьков;Бензин 1.5 л;Механическая;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1775535.html;25 066 $;692 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1775548.html;19 267 $;532 600 грн;Харьков;Бензин 1.6 л;Механическая;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1832892.html;24 075 $;665 500 грн;Харьков;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845912.html;19 426 $;537 000 грн;Днепр (Днепропетровск);Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845575.html;17 328 $;479 000 грн;Харьков;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1843070.html;21 380 $;591 000 грн;Львов;Бензин 1.6 л;Автомат;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1843922.html;17 708 $;489 500 грн;Харьков;Бензин 1.6 л;Механическая;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1845359.html;20 609 $;569 700 грн;Днепр (Днепропетровск);Бензин 1.5 л;Механическая;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1800152.html;28 398 $;785 000 грн;Одесса;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1777892.html;24 560 $;678 900 грн;Одесса;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1838869.html;17 708 $;489 500 грн;Одесса;Бензин 1.6 л;Механическая;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1845308.html;20 635 $;570 400 грн;Харьков;Бензин 1.6 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1835974.html;17 708 $;489 500 грн;Харьков;Бензин 1.6 л;Механическая;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1843921.html;19 061 $;526 900 грн;Харьков;Бензин 1.6 л;Автомат;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1775546.html;19 061 $;526 900 грн;Харьков;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845368.html;17 328 $;479 000 грн;Харьков;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1826365.html;25 066 $;692 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1841569.html;25 066 $;692 900 грн;Ивано-Франковск;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1841568.html;22 570 $;623 900 грн;Ивано-Франковск;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1775549.html;20 635 $;570 400 грн;Харьков;Бензин 1.6 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1815950.html;25 066 $;692 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1826363.html;22 570 $;623 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845365.html;19 173 $;530 000 грн;Харьков;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1844414.html;20 609 $;569 700 грн;Днепр (Днепропетровск);Бензин 1.5 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1711111.html;19 267 $;532 600 грн;Хмельницкий;Бензин 1.6 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1832537.html;17 708 $;489 500 грн;Хмельницкий;Бензин 1.6 л;Механическая;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1845547.html;21 232 $;586 900 грн;Днепр (Днепропетровск);Бензин 1.4 л;Автомат;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845950.html;19 426 $;537 000 грн;Днепр (Днепропетровск);Бензин 1.2 л;Вариатор;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1711109.html;17 708 $;489 500 грн;Хмельницкий;Бензин 1.6 л;Механическая;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1837445.html;25 066 $;692 900 грн;Львов;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1844365.html;20 635 $;570 400 грн;Харьков;Бензин 1.6 л;Автомат;Полный привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845716.html;15 881 $;439 000 грн;Харьков;Бензин 1.2 л;Механическая;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1845793.html;28 398 $;785 000 грн;Львов;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845790.html;19 426 $;537 000 грн;Львов;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1845009.html;28 398 $;785 000 грн;Хмельницкий;Бензин 1.5 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1773313.html;19 267 $;532 600 грн;Хмельницкий;Бензин 1.6 л;Механическая;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1844543.html;22 585 $;624 300 грн;Харьков;Бензин 1.5 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1839718.html;17 723 $;489 900 грн;Тернополь;Бензин 1.6 л;Механическая;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1775547.html;21 380 $;591 000 грн;Харьков;Бензин 1.6 л;Автомат;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1711112.html;19 267 $;532 600 грн;Хмельницкий;Бензин 1.6 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1843929.html;20 635 $;570 400 грн;Харьков;Бензин 1.6 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1775762.html;25 066 $;692 900 грн;Хмельницкий;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1775761.html;23 004 $;635 900 грн;Хмельницкий;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1836324.html;24 994 $;690 900 грн;Тернополь;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1845976.html;21 232 $;586 900 грн;Харьков;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1832862.html;28 398 $;785 000 грн;Харьков;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1838871.html;25 500 $;704 900 грн;Запорожье;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1844302.html;24 075 $;665 500 грн;Харьков;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1775537.html;22 570 $;623 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1845015.html;17 708 $;489 500 грн;Хмельницкий;Бензин 1.6 л;Механическая;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1843342.html;19 267 $;532 600 грн;Тернополь;Бензин 1.6 л;Механическая;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1788346.html;22 570 $;623 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1773311.html;20 635 $;570 400 грн;Хмельницкий;Бензин 1.6 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1844931.html;28 398 $;785 000 грн;Тернополь;Бензин 1.5 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1844143.html;21 380 $;591 000 грн;Тернополь;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1826362.html;20 797 $;574 900 грн;Харьков;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1844554.html;28 398 $;785 000 грн;Харьков;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1805676.html;22 570 $;623 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1775534.html;22 570 $;623 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1832860.html;22 585 $;624 300 грн;Харьков;Бензин 1.5 л;Механическая;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1805677.html;20 797 $;574 900 грн;Харьков;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1839716.html;22 570 $;623 900 грн;Запорожье;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1839324.html;21 380 $;591 000 грн;Харьков;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1838798.html;20 797 $;574 900 грн;Запорожье;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1832225.html;25 066 $;692 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1843172.html;20 635 $;570 400 грн;Днепр (Днепропетровск);Бензин 1.6 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1836203.html;17 708 $;489 500 грн;Хмельницкий;Бензин 1.6 л;Механическая;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1841346.html;17 708 $;489 500 грн;Киев;Бензин 1.6 л;Механическая;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1836072.html;20 635 $;570 400 грн;Хмельницкий;Бензин 1.6 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1773312.html;21 380 $;591 000 грн;Хмельницкий;Бензин 1.6 л;Автомат;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1785311.html;21 380 $;591 000 грн;Запорожье;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1841555.html;28 398 $;785 000 грн;Ивано-Франковск;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1844375.html;22 585 $;624 300 грн;Днепр (Днепропетровск);Бензин 1.5 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1773314.html;20 635 $;570 400 грн;Хмельницкий;Бензин 1.6 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1711114.html;20 635 $;570 400 грн;Хмельницкий;Бензин 1.6 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1711110.html;19 061 $;526 900 грн;Хмельницкий;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1836319.html;20 797 $;574 900 грн;Хмельницкий;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1775759.html;20 797 $;574 900 грн;Хмельницкий;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1815080.html;22 585 $;624 300 грн;Днепр (Днепропетровск);Бензин 1.5 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1815085.html;21 380 $;591 000 грн;Днепр (Днепропетровск);Бензин 1.6 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1815079.html;20 609 $;569 700 грн;Днепр (Днепропетровск);Бензин 1.5 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1815087.html;20 635 $;570 400 грн;Днепр (Днепропетровск);Бензин 1.6 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1842749.html;20 797 $;574 900 грн;Днепр (Днепропетровск);Бензин 1.4 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1844912.html;20 609 $;569 700 грн;Тернополь;Бензин 1.5 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1843332.html;19 061 $;526 900 грн;Киев;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1840570.html;24 509 $;677 500 грн;Киев;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1831030.html;25 066 $;692 900 грн;Запорожье;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1841552.html;20 609 $;569 700 грн;Ивано-Франковск;Бензин 1.5 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1785306.html;19 061 $;526 900 грн;Запорожье;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1837523.html;25 500 $;704 900 грн;Запорожье;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1802043.html;24 075 $;665 500 грн;Запорожье;Бензин 1.5 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1841542.html;19 267 $;532 600 грн;Ивано-Франковск;Бензин 1.6 л;Механическая;Полный привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845363.html;19 173 $;530 000 грн;Харьков;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1801999.html;20 609 $;569 700 грн;Харьков;Бензин 1.5 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1841543.html;20 635 $;570 400 грн;Ивано-Франковск;Бензин 1.6 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1779625.html;17 708 $;489 500 грн;Запорожье;Бензин 1.6 л;Механическая;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845246.html;17 328 $;479 000 грн;Днепр (Днепропетровск);Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1836019.html;21 232 $;586 900 грн;Запорожье;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845222.html;19 173 $;530 000 грн;Ивано-Франковск;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845247.html;19 173 $;530 000 грн;Днепр (Днепропетровск);Бензин 1.2 л;Вариатор;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1841541.html;21 380 $;591 000 грн;Ивано-Франковск;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845221.html;17 328 $;479 000 грн;Ивано-Франковск;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1802044.html;28 398 $;785 000 грн;Запорожье;Бензин 1.5 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1779628.html;20 635 $;570 400 грн;Запорожье;Бензин 1.6 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1841553.html;22 585 $;624 300 грн;Ивано-Франковск;Бензин 1.5 л;Механическая;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1802041.html;20 609 $;569 700 грн;Запорожье;Бензин 1.5 л;Механическая;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1844706.html;24 075 $;665 500 грн;Днепр (Днепропетровск);Бензин 1.5 л;Автомат;Полный привод
+Suzuki Jimny 2019;https://auto.ria.com/newauto/auto-suzuki-jimny-1843687.html;27 855 $;770 000 грн;Днепр (Днепропетровск);Бензин 1.5 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1844067.html;19 061 $;526 900 грн;Днепр (Днепропетровск);Бензин 1.6 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1840153.html;20 609 $;569 700 грн;Хмельницкий;Бензин 1.5 л;Механическая;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1836320.html;25 066 $;692 900 грн;Хмельницкий;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1815086.html;19 267 $;532 600 грн;Днепр (Днепропетровск);Бензин 1.6 л;Механическая;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1832896.html;22 570 $;623 900 грн;Днепр (Днепропетровск);Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1840618.html;19 061 $;526 900 грн;Днепр (Днепропетровск);Бензин 1.6 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1815081.html;24 075 $;665 500 грн;Днепр (Днепропетровск);Бензин 1.5 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1815083.html;17 708 $;489 500 грн;Днепр (Днепропетровск);Бензин 1.6 л;Механическая;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1843694.html;25 066 $;692 900 грн;Днепр (Днепропетровск);Бензин 1.4 л;Автомат;Полный привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845245.html;15 881 $;439 000 грн;Днепр (Днепропетровск);Бензин 1.2 л;Механическая;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1815082.html;28 416 $;785 500 грн;Днепр (Днепропетровск);Бензин 1.5 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1832643.html;28 832 $;797 000 грн;Тернополь;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1836956.html;22 570 $;623 900 грн;Запорожье;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1838017.html;21 232 $;586 900 грн;Запорожье;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1831029.html;22 570 $;623 900 грн;Запорожье;Бензин 1.4 л;Автомат;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1843931.html;22 570 $;623 900 грн;Харьков;Бензин 1.4 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1844334.html;17 708 $;489 500 грн;Киев;Бензин 1.6 л;Механическая;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1779627.html;19 267 $;532 600 грн;Запорожье;Бензин 1.6 л;Механическая;Полный привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1843918.html;20 797 $;574 900 грн;Харьков;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1841554.html;24 075 $;665 500 грн;Ивано-Франковск;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1802042.html;22 585 $;624 300 грн;Запорожье;Бензин 1.5 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1841540.html;19 061 $;526 900 грн;Ивано-Франковск;Бензин 1.6 л;Автомат;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1841539.html;17 708 $;489 500 грн;Ивано-Франковск;Бензин 1.6 л;Механическая;Передний привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1836931.html;21 380 $;591 000 грн;Киев;Бензин 1.6 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1802001.html;24 075 $;665 500 грн;Харьков;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845606.html;19 173 $;530 000 грн;Киев;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1802000.html;22 585 $;624 300 грн;Харьков;Бензин 1.5 л;Механическая;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1836022.html;21 380 $;591 000 грн;Запорожье;Бензин 1.6 л;Автомат;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1841548.html;20 797 $;574 900 грн;Ивано-Франковск;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Vitara 2020;https://auto.ria.com/newauto/auto-suzuki-vitara-1831028.html;20 797 $;574 900 грн;Запорожье;Бензин 1.4 л;Автомат;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845220.html;15 881 $;439 000 грн;Ивано-Франковск;Бензин 1.2 л;Механическая;Передний привод
+Suzuki GSX-S 2020;https://auto.ria.com/newauto/auto-suzuki-gsx-s-1836699.html;15 158 $;419 000 грн;Харьков;Бензин 1.0 л;Механическая;Цепной привод
+Suzuki Burgman 2020;https://auto.ria.com/newauto/auto-suzuki-burgman-1836696.html;9 008 $;249 000 грн;Харьков;Бензин 0.4 л;Вариатор;Ременной привод
+Suzuki GSX-R 2018;https://auto.ria.com/newauto/auto-suzuki-gsx-r-1817274.html;15 519 $;429 000 грн;Харьков;Бензин 1.0 л;Механическая;Цепной привод
+Suzuki V-Strom 2019;https://auto.ria.com/newauto/auto-suzuki-v-strom-1815575.html;5 390 $;149 000 грн;Харьков;Бензин 0.2 л;Механическая;Цепной привод
+Suzuki SV 2018;https://auto.ria.com/newauto/auto-suzuki-sv-1816637.html;7 488 $;207 000 грн;Харьков;Бензин 0.6 л;Секвентальная;Цепной привод
+Suzuki SV 2019;https://auto.ria.com/newauto/auto-suzuki-sv-1815927.html;7 561 $;209 000 грн;Харьков;Бензин 0.6 л;Секвентальная;Цепной привод
+Suzuki GSX-S 2020;https://auto.ria.com/newauto/auto-suzuki-gsx-s-1836698.html;10 636 $;294 000 грн;Харьков;Бензин 0.7 л;Механическая;Цепной привод
+Suzuki GSX-S 2019;https://auto.ria.com/newauto/auto-suzuki-gsx-s-1815965.html;10 238 $;283 000 грн;Харьков;Бензин 0.7 л;Механическая;Цепной привод
+Suzuki SV 2019;https://auto.ria.com/newauto/auto-suzuki-sv-1816638.html;7 995 $;221 000 грн;Харьков;Бензин 0.6 л;Секвентальная;Цепной привод
+Suzuki V-Strom 2020;https://auto.ria.com/newauto/auto-suzuki-v-strom-1836697.html;10 780 $;298 000 грн;Харьков;Бензин 0.6 л;Механическая;Цепной привод
+Suzuki V-Strom 2020;https://auto.ria.com/newauto/auto-suzuki-v-strom-1815562.html;10 310 $;285 000 грн;Харьков;Бензин 0.6 л;Механическая;Цепной привод
+Suzuki GSX 2019;https://auto.ria.com/newauto/auto-suzuki-gsx-1835981.html;5 133 $;141 900 грн;Харьков;Бензин 0.2 л;Механическая;Цепной привод
+Suzuki Katana 2019;https://auto.ria.com/newauto/auto-suzuki-katana-1815561.html;13 349 $;369 000 грн;Харьков;Бензин 1.0 л;Секвентальная;Цепной привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1800150.html;22 585 $;624 300 грн;Одесса;Бензин 1.5 л;Механическая;Полный привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845250.html;15 881 $;439 000 грн;Запорожье;Бензин 1.2 л;Механическая;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845252.html;19 173 $;530 000 грн;Запорожье;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845361.html;15 881 $;439 000 грн;Харьков;Бензин 1.2 л;Механическая;Передний привод
+Suzuki Ignis 2020;https://auto.ria.com/newauto/auto-suzuki-ignis-1845251.html;17 328 $;479 000 грн;Запорожье;Бензин 1.2 л;Вариатор;Передний привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1831970.html;22 585 $;624 300 грн;Хмельницкий;Бензин 1.5 л;Механическая;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1800149.html;20 609 $;569 700 грн;Одесса;Бензин 1.5 л;Механическая;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1800151.html;24 075 $;665 500 грн;Одесса;Бензин 1.5 л;Автомат;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1845097.html;20 609 $;569 700 грн;Киев;Бензин 1.5 л;Механическая;Полный привод
+Suzuki Jimny 2020;https://auto.ria.com/newauto/auto-suzuki-jimny-1845098.html;24 075 $;665 500 грн;Киев;Бензин 1.5 л;Автомат;Полный привод
+Suzuki SX4 2020;https://auto.ria.com/newauto/auto-suzuki-sx4-1821978.html;17 708 $;489 500 грн;Винница;Бензин 1.6 л;Механическая;Передний привод
+Suzuki DT 2018;https://auto.ria.com/newauto/auto-suzuki-dt-1690752.html;1 799 $;49 729 грн;Днепр (Днепропетровск);Бензин;0.3;л привод
